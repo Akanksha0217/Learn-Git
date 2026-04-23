@@ -130,16 +130,6 @@ git push origin new-feature
 ```
 
 Then merge into main.
-
----
-
-## 💡 Best Practices
-
-✔ Use meaningful branch names
-✔ Keep branches small
-✔ Always pull latest code before merging
-✔ Delete unused branches
-
 ---
 
 ## 🎯 Summary
@@ -151,6 +141,3 @@ Then merge into main.
 
 ---
 
-## 🚀 Next Topic Suggestion
-
-👉 Git Rebase & Cherry-pick
